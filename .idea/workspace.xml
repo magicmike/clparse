@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="56a2ba9e-ec94-4c11-8838-b56b0e375f78" name="Default" comment="" />
+    <list default="true" id="56a2ba9e-ec94-4c11-8838-b56b0e375f78" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/links.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="craigslist.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -12,7 +16,7 @@
   </component>
   <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/craigslist$findboat.coverage" NAME="findboat Coverage Results" MODIFIED="1388370747589" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/craigslist$findboat.coverage" NAME="findboat Coverage Results" MODIFIED="1388519607918" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
   <component name="CreatePatchCommitExecutor">
     <option name="PATCH_PATH" value="" />
@@ -26,13 +30,22 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="findboat.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="findboat.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/findboat.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="38" column="21" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.64659685" vertical-offset="323" max-vertical-offset="975">
+            <state line="38" column="21" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="975">
               <folding>
                 <element signature="e#21#50#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="links.txt" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/links.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="6" column="0" selection-start="381" selection-end="381" vertical-scroll-proportion="0.24390244" vertical-offset="0" max-vertical-offset="369">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -62,12 +75,21 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitLogSettings">
+    <option name="myDateState">
+      <MyDateState />
+    </option>
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/gmailsend.py" />
         <option value="$PROJECT_DIR$/houselistings.html" />
         <option value="$PROJECT_DIR$/findboat.py" />
+        <option value="$PROJECT_DIR$/links.txt" />
       </list>
     </option>
   </component>
@@ -77,7 +99,7 @@
     <option name="width" value="914" />
     <option name="height" value="760" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -130,7 +152,7 @@
     <property name="options.splitter.main.proportions" value="0.3" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="recentsLimit" value="5" />
-    <property name="options.lastSelected" value="com.jetbrains.python.configuration.PythonSdkConfigurable" />
+    <property name="options.lastSelected" value="project.propVCSSupport.Mappings" />
     <property name="restartRequiresConfirmation" value="true" />
     <property name="options.searchVisible" value="true" />
     <property name="options.splitter.details.proportions" value="0.2" />
@@ -404,10 +426,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/findboat.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="21" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.64659685" vertical-offset="323" max-vertical-offset="975">
+        <state line="38" column="21" selection-start="1079" selection-end="1079" vertical-scroll-proportion="0.0" vertical-offset="323" max-vertical-offset="975">
           <folding>
             <element signature="e#21#50#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/links.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="381" selection-end="381" vertical-scroll-proportion="0.24390244" vertical-offset="0" max-vertical-offset="369">
+          <folding />
         </state>
       </provider>
     </entry>

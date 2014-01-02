@@ -1,0 +1,6 @@
+http://wrobstory.github.io/2013/04/python-maps-choropleth.html
+http://gilchrist.ca/jeff/factoring/nfs_beginners_guide.html
+http://www.getjar.mobi/mobile/802274/Python-mini-projects
+http://docs.python-requests.org/en/latest/
+http://pymotw.com/2/json/index.html#module-json
+http://stackoverflow.com/questions/1794196/working-copy-is-on-master-branch-how-to-update-from-remote-server
